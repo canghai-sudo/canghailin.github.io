@@ -15,3 +15,5 @@
             -d '{"event_type":"on-demand-test"}'
       - run: yarn install
       - run: yarn docs:build
+
+theme: jekyll-theme-cayman
